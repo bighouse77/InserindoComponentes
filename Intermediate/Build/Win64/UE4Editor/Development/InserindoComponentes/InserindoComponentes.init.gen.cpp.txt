@@ -1,0 +1,3 @@
+C:\Unreal\Estudos\4.0\InserindoComponentes\Intermediate\Build\Win64\UE4Editor\Development\InserindoComponentes\Definitions.InserindoComponentes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

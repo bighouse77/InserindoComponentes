@@ -1,0 +1,7 @@
+C:\Unreal\Estudos\4.0\InserindoComponentes\Intermediate\Build\Win64\UE4Editor\Development\InserindoComponentes\Definitions.InserindoComponentes.h
+C:\Unreal\Estudos\4.0\InserindoComponentes\Source\InserindoComponentes\InserindoComponentesGameModeBase.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Unreal\Estudos\4.0\InserindoComponentes\Intermediate\Build\Win64\UE4Editor\Inc\InserindoComponentes\InserindoComponentesGameModeBase.generated.h

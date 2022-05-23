@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\InserindoComponentes.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{9175176F-DE39-429B-B1C4-720F85268AFF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\InserindoComponentes.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\InserindoComponentesEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{E47B885F-C3A4-4305-9095-0FFD4910452B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\InserindoComponentes">
+      <UniqueIdentifier>{6CF1479E-1A7F-4624-BDC5-417047512D5C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\InserindoComponentes\EsferaDeFogo.cpp">
+      <Filter>Source\InserindoComponentes</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InserindoComponentes\EsferaDeFogo.h">
+      <Filter>Source\InserindoComponentes</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\InserindoComponentes\InserindoComponentes.Build.cs">
+      <Filter>Source\InserindoComponentes</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\InserindoComponentes\InserindoComponentes.cpp">
+      <Filter>Source\InserindoComponentes</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InserindoComponentes\InserindoComponentes.h">
+      <Filter>Source\InserindoComponentes</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\InserindoComponentes\InserindoComponentesGameModeBase.cpp">
+      <Filter>Source\InserindoComponentes</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\InserindoComponentes\InserindoComponentesGameModeBase.h">
+      <Filter>Source\InserindoComponentes</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

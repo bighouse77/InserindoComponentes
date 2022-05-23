@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "InserindoComponentes",
+			"Path": "C:\\Unreal\\Estudos\\4.0\\InserindoComponentes\\Source\\InserindoComponentes.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "InserindoComponentesEditor",
+			"Path": "C:\\Unreal\\Estudos\\4.0\\InserindoComponentes\\Source\\InserindoComponentesEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

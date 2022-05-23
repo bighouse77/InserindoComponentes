@@ -1,0 +1,2 @@
+C:\Unreal\Estudos\4.0\InserindoComponentes\Intermediate\Build\Win64\UE4Editor\Development\InserindoComponentes\Definitions.InserindoComponentes.h
+C:\Unreal\Estudos\4.0\InserindoComponentes\Source\InserindoComponentes\InserindoComponentes.h
